@@ -1,116 +1,113 @@
 {
-  "$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-  "CreationDate" : "2025-05-09T14:32:41.614-00:00",
-  "Sources" : 
-  [
-    {
-      "Packages" : 
-      [
-        {
-          "PackageIdentifier" : "CoreyButler.NVMforWindows"
-        }
-        {
-          "PackageIdentifier" : "Fork.Fork"
-        }
-        {
-          "PackageIdentifier" : "ShareX.ShareX"
-        },
-        {
-          "PackageIdentifier" : "Git.Git"
-        },
-        {
-          "PackageIdentifier" : "REALiX.HWiNFO"
-        },
-        {
-          "PackageIdentifier" : "Mozilla.Firefox"
-        },
-        {
-          "PackageIdentifier" : "xpipe-io.xpipe"
-        },
-        {
-          "PackageIdentifier" : "OlegDanilov.RapidEnvironmentEditor"
-        },
-        {
-          "PackageIdentifier" : "BornToBeRoot.NETworkManager"
-        },
-        {
-          "PackageIdentifier" : "WerWolv.ImHex"
-        },
-        {
-          "PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
-        },
-        {
-          "PackageIdentifier" : "Microsoft.PowerShell"
-        },
-        {
-          "PackageIdentifier" : "Google.Chrome"
-        },
-        {
-          "PackageIdentifier" : "Microsoft.Edge"
-        },
-        {
-          "PackageIdentifier" : "Rem0o.FanControl"
-        },
-        {
-          "PackageIdentifier" : "AgileBits.1Password"
-        },
-        {
-          "PackageIdentifier" : "Proxyman.Proxyman"
-        },
-        {
-          "PackageIdentifier" : "Notion.Notion"
-        },
-        {
-          "PackageIdentifier" : "Notion.NotionCalendar"
-        },
-        {
-          "PackageIdentifier" : "ScooterSoftware.BeyondCompare.5"
-        },
-        {
-          "PackageIdentifier" : "DBeaver.DBeaver.Community"
-        },
-        {
-          "PackageIdentifier" : "Discord.Discord"
-        },
-        {
-          "PackageIdentifier" : "Flow-Launcher.Flow-Launcher"
-        },
-        {
-          "PackageIdentifier" : "Postman.Postman"
-        },
-        {
-          "PackageIdentifier" : "Spotify.Spotify"
-        },
-        {
-          "PackageIdentifier" : "JetBrains.Toolbox"
-        },
-        {
-          "PackageIdentifier" : "Warp.Warp"
-        },
-        {
-          "PackageIdentifier" : "LocalSend.LocalSend"
-        },
-        {
-          "PackageIdentifier" : "Microsoft.VisualStudioCode"
-        },
-        {
-          "PackageIdentifier" : "Microsoft.PowerToys"
-        },
-        {
-          "PackageIdentifier" : "M2Team.NanaZip"
-        },
-        {
-          "PackageIdentifier" : "Microsoft.WindowsTerminal"
-        },
-      ],
-      "SourceDetails" : 
-      {
-        "Argument" : "https://cdn.winget.microsoft.com/cache",
-        "Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
-        "Name" : "winget",
-        "Type" : "Microsoft.PreIndexed.Package"
-      }
-    }
-  ],
-  "WinGetVersion" : "1.10.390"
+	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate": "2025-05-24T14:18:54.674-00:00",
+	"Sources": [
+		{
+			"Packages": [
+				{
+					"PackageIdentifier": "AgileBits.1Password"
+				},
+				{
+					"PackageIdentifier": "Discord.Discord"
+				},
+				{
+					"PackageIdentifier": "Git.Git"
+				},
+				{
+					"PackageIdentifier": "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier": "Microsoft.PowerShell"
+				},
+				{
+					"PackageIdentifier": "M2Team.NanaZip"
+				},
+				{
+					"PackageIdentifier": "Valve.Steam"
+				},
+				{
+					"PackageIdentifier": "JetBrains.Toolbox"
+				},
+				{
+					"PackageIdentifier": "Fork.Fork"
+				},
+				{
+					"PackageIdentifier": "Obsidian.Obsidian"
+				},
+				{
+					"PackageIdentifier": "Notion.Notion"
+				},
+				{
+					"PackageIdentifier": "Notion.NotionCalendar"
+				},
+				{
+					"PackageIdentifier": "EpicGames.EpicGamesLauncher"
+				},
+				{
+					"PackageIdentifier": "Postman.Postman"
+				},
+				{
+					"PackageIdentifier": "DBeaver.DBeaver.Community"
+				},
+				{
+					"PackageIdentifier": "Flow-Launcher.Flow-Launcher"
+				},
+				{
+					"PackageIdentifier": "Spotify.Spotify"
+				},
+				{
+					"PackageIdentifier": "astral-sh.uv"
+				},
+				{
+					"PackageIdentifier": "CoreyButler.NVMforWindows"
+				},
+				{
+					"PackageIdentifier": "Flameshot.Flameshot"
+				},
+				{
+					"PackageIdentifier": "Docker.DockerDesktop"
+				},
+				{
+					"PackageIdentifier": "voidtools.Everything"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier": "xpipe-io.xpipe"
+				},
+				{
+					"PackageIdentifier": "Anysphere.Cursor"
+				},
+				{
+					"PackageIdentifier": "OlegDanilov.RapidEnvironmentEditor"
+				},
+				{
+					"PackageIdentifier": "BornToBeRoot.NETworkManager"
+				},
+				{
+					"PackageIdentifier": "WerWolv.ImHex"
+				},
+				{
+					"PackageIdentifier": "Proxyman.Proxyman"
+				},
+				{
+					"PackageIdentifier": "ScooterSoftware.BeyondCompare.5"
+				},
+				{
+					"PackageIdentifier": "Warp.Warp"
+				},
+				{
+					"PackageIdentifier": "LocalSend.LocalSend"
+				}
+			],
+			"SourceDetails": {
+				"Argument": "https://cdn.winget.microsoft.com/cache",
+				"Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name": "winget",
+				"Type": "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion": "1.6.10121"
 }
