@@ -99,6 +99,9 @@
 				},
 				{
 					"PackageIdentifier": "LocalSend.LocalSend"
+				},
+				{
+					"PackageIdentifier": "Microsoft.PowerToys"
 				}
 			],
 			"SourceDetails": {
